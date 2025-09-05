@@ -5,8 +5,8 @@ def check_vowels():
     i = "i" in nombre
     o = "o" in nombre
     u = "u" in nombre
-    print("contiene a:", {a})
-    print("contiene e:", {e})
-    print("contiene i:", {i})
-    print("contiene o:", {o})
-    print("contiene u:", {u})
+    print("Contiene a:", {a})
+    print("Contiene e:", {e})
+    print("Contiene i:", {i})
+    print("Contiene o:", {o})
+    print("Contiene u:", {u})
